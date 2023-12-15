@@ -7,7 +7,7 @@ public class Demo {
 		System.out.println("helloooooo");
 		System.out.println("hii");
 		System.out.println("moo");
-		System.out.println("lolo");
+		System.out.println("lolo5");
 
 		System.out.println("eolo");
 
